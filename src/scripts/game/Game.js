@@ -1,5 +1,4 @@
 import * as PIXI from "pixi.js";
-import { App } from "../system/App";
 
 export class Game {
     constructor(texture) {
